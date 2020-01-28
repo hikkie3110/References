@@ -1,6 +1,6 @@
 # Category
 * [category](#category)
-* [Cloud Native(k8s,microservice](#cloud-native)
+* [Cloud Native(k8s,microservice)](#cloud-native)
 * [その他インフラ全般](#その他インフラ全般)
 * [Application Programming](#Application-Programming)
 * [PO、ビジネス](#PO、ビジネス)
@@ -115,10 +115,6 @@
 * [ソースコードの理解ツール　source trail](https://github.com/CoatiSoftware/Sourcetrail)
 * [東京大学の講義](https://ocw.u-tokyo.ac.jp/lecture-search/?fq%5Bsubject_codes%5D%5B0%5D=540)
 * [アイコンのサイト](https://bizroute.net/network_icon.html)
-* [青山さんのポートフォリオ](https://amsy.dev/ )
+* [青山さんのポートフォリオ](https://amsy.dev/)
 
-* []()
-* []()
-* []()
-* []()
 
