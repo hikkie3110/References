@@ -79,7 +79,7 @@ https://toris.io/2019/12/what-i-think-about-when-i-think-about-kubernetes-and-ec
 https://sites.google.com/view/explore-rhel8
 
 
-# Application Programing
+# Application Programming
 
 ## すべてのプログラマーが試すべき挑戦的なプロジェクト
 ComputerScienceに近い
