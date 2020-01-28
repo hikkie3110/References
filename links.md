@@ -15,16 +15,9 @@
 
 
 # k8s
-## 勉強会資料
-https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond?slide=87
-
-## Kubernetes の国の愉快な小人の世界
-https://www.youtube.com/watch?v=yrCaCBUceL4&feature=youtu.be
-
-
-## K8sの動きを解説している。
-https://github.com/jamiehannaford/what-happens-when-k8s
-
+* [k8s勉強会資料](https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond)
+* [Kubernetes の国の愉快な小人の世界](https://www.youtube.com/watch?v=yrCaCBUceL4&feature=youtu.be)
+* [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 ## 上の解説スライド
 https://speakerdeck.com/nnao45/what-happens-when-k8s-journy?slide=2
 
