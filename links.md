@@ -1,7 +1,6 @@
 # Category
 * [category](#category)
-* [k8s](#k8s)
-* [container](#container)
+* [Cloud Native(k8s,microservice](#cloud-native)
 * [その他インフラ全般](#その他インフラ全般)
 * [Application Programming](#Application-Programming)
 * [PO、ビジネス](#PO、ビジネス)
@@ -14,116 +13,68 @@
 * [Others](#Others)
 
 
-# k8s
-* [k8s勉強会資料](https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond)
+# #cloud-native
+* [コンテナ入門とその先](https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond)
 * [Kubernetes の国の愉快な小人の世界](https://www.youtube.com/watch?v=yrCaCBUceL4&feature=youtu.be)
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
-## 上の解説スライド
-https://speakerdeck.com/nnao45/what-happens-when-k8s-journy?slide=2
-
-## スタートアップのためのコンテナ入門 – Kubernetes 編
-https://aws.amazon.com/jp/blogs/startup/techblog-container-k8s-1/
-
-## マイクロサービスとメッセージングのなぜ [疑問編]
-https://rheb.hatenablog.com/entry/microservices_messaging_2
-
-## ゼロから始めるKubernetes Controller / Under the Kubernetes Controller
-https://speakerdeck.com/govargo/under-the-kubernetes-controller-36f9b71b-9781-4846-9625-23c31da93014?slide=49
-
-## DB with k8s
-
-## まだ大きくない僕たちに必要なCLoud Nativeを求めて
-https://speakerdeck.com/nnao45/madada-kikunaipu-tatinibi-yao-nacloud-nativewoqiu-mete?slide=21
-
-## メルペイのマイクロサービスとCloud Native / CloudNative Days Kansai2019
-https://speakerdeck.com/tjun/cloudnative-days-kansai2019?slide=30
-
-## Kuberneteの運用を支えるGitOps
-https://www.slideshare.net/ssuser4fddce/kubernetegitops
-
-## 優れた SLO を策定するには : CRE が現場で学んだこと
-https://cloud.google.com/blog/ja/products/gcp/building-good-slos-cre-life-lessons
-
-
-
-
-
-# Container
+* [what-happens-when-k8sの解説](https://speakerdeck.com/nnao45/what-happens-when-k8s-journy)
+* [スタートアップのためのコンテナ入門 – Kubernetes 編](https://aws.amazon.com/jp/blogs/startup/techblog-container-k8s-1/)
+* [マイクロサービスとメッセージングのなぜ [疑問編]](https://rheb.hatenablog.com/entry/microservices_messaging_2)　##　移動する
+* [ゼロから始めるKubernetes-Controller-/-Under-the-Kubernetes-Controller](https://speakerdeck.com/govargo/under-the-kubernetes-controller-36f9b71b-9781-4846-9625-23c31da93014)
+* [まだ大きくない僕たちに必要なCLoud Nativeを求めて](https://speakerdeck.com/nnao45/madada-kikunaipu-tatinibi-yao-nacloud-nativewoqiu-mete)
+* [メルペイのマイクロサービスとCloud Native / CloudNative Days Kansai2019](https://speakerdeck.com/tjun/cloudnative-days-kansai2019)
+* [Kuberneteの運用を支えるGitOps](https://www.slideshare.net/ssuser4fddce/kubernetegitops)
+* [優れた SLO を策定するには : CRE が現場で学んだこと](https://cloud.google.com/blog/ja/products/gcp/building-good-slos-cre-life-lessons)
 
 # その他インフラ全般
+* [API Gatewayについて](https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/)
+* [MicroSoftLearn](https://twitter.com/m_oka_system/status/1203322113395789824)
+* [Amazon Builders’Library](https://www.publickey1.jp/blog/19/the_amazon_builders_libraryamazonaws_reinvent_2019.html)
+* [ブロックチェーンを使う前に自問自答したいフローチャート](https://twitter.com/TakeItHaru/status/1199544019392446465)
+* [ブロックチェーンを使う前に自問自答したいフローチャート](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)
+* [プラットフォームの上でものを作るということ](https://toris.io/2019/12/what-i-think-about-when-i-think-about-kubernetes-and-ecs/)
+* [RHEL8を手軽に試す。](https://sites.google.com/view/explore-rhel8)
 
-## API Gatewayについて
-https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/
-
-## MicroSoftLearnなど
-https://twitter.com/m_oka_system/status/1203322113395789824
-
-## Amazon Builders’Library
-https://www.publickey1.jp/blog/19/the_amazon_builders_libraryamazonaws_reinvent_2019.html
-
-## ブロックチェーンを使う前に自問自答したいフローチャート
-https://twitter.com/TakeItHaru/status/1199544019392446465
-https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf
-
-## プラットフォームの上でものを作るということ
-https://toris.io/2019/12/what-i-think-about-when-i-think-about-kubernetes-and-ecs/
-
-## RHEL8を手軽に試す。
-https://sites.google.com/view/explore-rhel8
 
 
 # Application Programming
+* [すべてのプログラマーが試すべき挑戦的なプロジェクト](https://okuranagaimo.blogspot.com/2019/12/blog-post_20.html)
 
-## すべてのプログラマーが試すべき挑戦的なプロジェクト
-ComputerScienceに近い
-https://okuranagaimo.blogspot.com/2019/12/blog-post_20.html
 
 # PO/Businness
-## 不確実性との向き合い方
-https://speakerdeck.com/hiro_kamezawa/cloudnative-bu-que-shi-nashi-jie-tozhan-u-20191219jeita?slide=20
-
-
-## メルペイの裏側
-https://tech.mercari.com/entry/2019/12/21/104948
-
-
-## 「意味のイノベーション」 
-https://note.com/waternavy/n/n8a0345f7f3e7
-
-## 「スクラムマスターを雇うときに聞いてみるとよい38個の質問」に答える
-https://qiita.com/viva_tweet_x/items/55258f657eb0b11eaf47
-
+* [不確実性との向き合い方](https://speakerdeck.com/hiro_kamezawa/cloudnative-bu-que-shi-nashi-jie-tozhan-u-20191219jeita)
+* [メルペイの裏側](https://tech.mercari.com/entry/2019/12/21/104948)
+* [「意味のイノベーション」](https://note.com/waternavy/n/n8a0345f7f3e7)
+* [「スクラムマスターを雇うときに聞いてみるとよい38個の質問」に答える](https://qiita.com/viva_tweet_x/items/55258f657eb0b11eaf47)
 
 
 
 # 組織論、プロセス
-## 質とスピード
-https://speakerdeck.com/twada/quality-and-speed?
+* [質とスピード](https://speakerdeck.com/twada/quality-and-speed)
+* [プロジェクトをリードする技術](https://kakakakakku.hatenablog.com/entry/2018/04/23/223304)
+* [「2つのDXとデジタル時代の経営ガイドライン」](https://drive.google.com/file/d/1ifLKMVIr7IBCARcc8uUa4e0GxsEZ3aIN/view)
+* [アジャイルコーチが見てきた組織の壁とその越え方](https://speakerdeck.com/yohhatu/how-to-overcome-the-organizational-barriers-seen-by-agile-coaches
+)
+* [組織はツリーではない。](https://kawaguti.hateblo.jp/entry/2019/12/06/070000)
+* [1300はてブ超！「心理的安全性を0から80ぐらいに上げた話」の久津佑介氏が心理的安全性の “失敗談と教訓” を語る](https://backlog.com/ja/blog/campfire-talks-about-the-story-of-raising-psychological-safety-from-0-to-80/)
+* []()
+* []()
+* []()
 
-## プロジェクトをリードする技術
-https://kakakakakku.hatenablog.com/entry/2018/04/23/223304
+* []()
+* []()
+* []()
 
-## 「2つのDXとデジタル時代の経営ガイドライン」
-https://drive.google.com/file/d/1ifLKMVIr7IBCARcc8uUa4e0GxsEZ3aIN/view
+* []()
+* []()
+* []()
 
-## アジャイルコーチが見てきた組織の壁とその越え方
-https://speakerdeck.com/yohhatu/how-to-overcome-the-organizational-barriers-seen-by-agile-coaches
+* []()
+* []()
+* []()
 
-## 組織はツリーではない。 
-https://kawaguti.hateblo.jp/entry/2019/12/06/070000
 
-## トレンドに踊らされず、人事本来の「コア」に向き合い磨いていく
-https://note.com/hideakiishikura/n/n6dbd86b655e3
-	
 
-## 【エンジニア採用担当者向け】エンジニア採用を成功させる7つのステップ 〜100社以上の採用課題をまとめました〜
-https://blog.findy.us/findy-engineer-7step/
-
-## ブランディングとは経営のデザイン
-https://twitter.com/tsuyoshi_osiire/status/1198102408255008768
-
-## 1300はてブ超！「心理的安全性を0から80ぐらいに上げた話」の久津佑介氏が心理的安全性の “失敗談と教訓” を語る
-https://backlog.com/ja/blog/campfire-talks-about-the-story-of-raising-psychological-safety-from-0-to-80/
 
 ## エンジニアチームビルディングジャーニー
 https://www.slideshare.net/yusukehisatsu/ss-130125728
@@ -166,6 +117,9 @@ https://twitter.com/ryota_hnk/status/1213109687626780672
 https://note.com/ymiyazawa/n/ndbca544f23e1
 
 
+
+## ブランディングとは経営のデザイン
+https://twitter.com/tsuyoshi_osiire/status/1198102408255008768
 
 # キャリア
 ## 「セイチョウ・ジャーニー」「挫折論への招待」アドベントカレンダー Advent Calendar 2019
@@ -215,7 +169,12 @@ https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/
 
 
 # 採用
+## トレンドに踊らされず、人事本来の「コア」に向き合い磨いていく
+https://note.com/hideakiishikura/n/n6dbd86b655e3
+	
 
+## 【エンジニア採用担当者向け】エンジニア採用を成功させる7つのステップ 〜100社以上の採用課題をまとめました〜
+https://blog.findy.us/findy-engineer-7step/
 
 
 # Others
