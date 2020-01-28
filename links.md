@@ -15,8 +15,6 @@
 * [Others](#anchor12)
 
 
-<a id="anchor1"></a>
-<a href="#anchor1"></a>  
 # k8s
 ## 勉強会資料
 https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond?slide=87
