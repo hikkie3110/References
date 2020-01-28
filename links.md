@@ -19,12 +19,15 @@
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [what-happens-when-k8sの解説](https://speakerdeck.com/nnao45/what-happens-when-k8s-journy)
 * [スタートアップのためのコンテナ入門 – Kubernetes 編](https://aws.amazon.com/jp/blogs/startup/techblog-container-k8s-1/)
-* [マイクロサービスとメッセージングのなぜ [疑問編]](https://rheb.hatenablog.com/entry/microservices_messaging_2)　##　移動する
+* [マイクロサービスとメッセージングのなぜ [疑問編]](https://rheb.hatenablog.com/entry/microservices_messaging_2)
 * [ゼロから始めるKubernetes-Controller-/-Under-the-Kubernetes-Controller](https://speakerdeck.com/govargo/under-the-kubernetes-controller-36f9b71b-9781-4846-9625-23c31da93014)
 * [まだ大きくない僕たちに必要なCLoud Nativeを求めて](https://speakerdeck.com/nnao45/madada-kikunaipu-tatinibi-yao-nacloud-nativewoqiu-mete)
 * [メルペイのマイクロサービスとCloud Native / CloudNative Days Kansai2019](https://speakerdeck.com/tjun/cloudnative-days-kansai2019)
 * [Kuberneteの運用を支えるGitOps](https://www.slideshare.net/ssuser4fddce/kubernetegitops)
 * [優れた SLO を策定するには : CRE が現場で学んだこと](https://cloud.google.com/blog/ja/products/gcp/building-good-slos-cre-life-lessons)
+* [Cloud Nativeやる前とやりながら考えておきたいこと](https://speakerdeck.com/fufuhu/cloud-nativeyaruqian-toyarinagarakao-eteokitaikoto?)
+* [DevOps導入指南～基本編～](https://speakerdeck.com/rtechkouhou/devopsdao-ru-zhi-nan-ji-ben-bian)
+
 
 # その他インフラ全般
 * [API Gatewayについて](https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/)
@@ -67,8 +70,6 @@
 * [googleのmanager論](https://rework.withgoogle.com/jp/subjects/managers/)
 * [44 engineering management](https://kakakakakku.hatenablog.com/entry/2017/09/04/073248)
 * [Cloud native ぽいチーム作りを目指す](https://speakerdeck.com/makocchi/cndjp-13-cloud-native-team?)
-* [Cloud Nativeやる前とやりながら考えておきたいこと](https://speakerdeck.com/fufuhu/cloud-nativeyaruqian-toyarinagarakao-eteokitaikoto?)
-* [DevOps導入指南～基本編～](https://speakerdeck.com/rtechkouhou/devopsdao-ru-zhi-nan-ji-ben-bian)
 * [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
 * [経営に役立つナレッジマネジメントの活用](https://www.juas.or.jp/cms/media/2017/01/01knowledgemngmt.pdf)
 * [経営に役立つナレッジマネジメントの活用(tweet元）](https://twitter.com/ryota_hnk/status/1213109687626780672)
@@ -85,21 +86,8 @@
 # SRE
 * [training-site-reliability-engineers](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/) ##未読
 
-
-
-…..
-社員と業務委託の違いって何だろうか。（社内ルール）
-会社アドレスを登録しないと使っちゃいけないSaaSってなnだろう？
-
-といった具合に、何となくの安心感で満足していないか？
-
-…単一のDBで複数のサービス。。
-に対するOracleのアンチテーゼって何だっけ？
-
-
 # edge computing
 * [さくらのedge computingについて](https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/)
-
 
 # 採用
 * [トレンドに踊らされず、人事本来の「コア」に向き合い磨いていく](https://note.com/hideakiishikura/n/n6dbd86b655e3)
