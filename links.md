@@ -3,13 +3,15 @@
 * [category](#category)
 * [k8s](#anchor1)
 * [container](#anchor2)
-* [Application Programming](#anchor3)
-* [組織論、プロセス](#anchor4)
-* [management](#anchor5)
-* [キャリア](#anchor6)
-* [SRE](#anchor7)
-* [edge computing](#anchor8)
-* [Others](#anchor9)
+* [その他インフラ全般](#anchor3)
+* [Application Programming](#anchor4)
+* [PO、ビジネス](#anchor5)
+* [組織論、プロセス](#anchor6)
+* [management](#anchor7)
+* [キャリア](#anchor8)
+* [SRE](#anchor9)
+* [edge computing](#anchor10)
+* [Others](#anchor11)
 
 
 <a id="anchor1"></a>
@@ -57,11 +59,11 @@ https://cloud.google.com/blog/ja/products/gcp/building-good-slos-cre-life-lesson
 
 <a id="anchor2"></a>
 <a href="#anchor2"></a>  
-
 # Container
 
-
-#その他インフラ全般
+<a id="anchor3"></a>
+<a href="#anchor3"></a>  
+# その他インフラ全般
 
 ## API Gatewayについて
 https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/
@@ -83,14 +85,16 @@ https://toris.io/2019/12/what-i-think-about-when-i-think-about-kubernetes-and-ec
 https://sites.google.com/view/explore-rhel8
 
 
-
+<a id="anchor4"></a>
+<a href="#anchor4"></a>  
 # Programing of Application
 
 ## すべてのプログラマーが試すべき挑戦的なプロジェクト
 ComputerScienceに近い
 https://okuranagaimo.blogspot.com/2019/12/blog-post_20.html
 
-
+<a id="anchor5"></a>
+<a href="#anchor5"></a>  
 # PO/Businness
 ## 不確実性との向き合い方
 https://speakerdeck.com/hiro_kamezawa/cloudnative-bu-que-shi-nashi-jie-tozhan-u-20191219jeita?slide=20
@@ -109,7 +113,8 @@ https://qiita.com/viva_tweet_x/items/55258f657eb0b11eaf47
 
 
 
-
+<a id="anchor6"></a>
+<a href="#anchor6"></a>  
 # 組織論、プロセス
 ## 質とスピード
 https://speakerdeck.com/twada/quality-and-speed?
@@ -149,9 +154,8 @@ https://diamond.jp/articles/-/224049?page=5
 https://note.com/naofumit/n/n1aaab6683818
 
 
-
-
-
+<a id="anchor7"></a>
+<a href="#anchor7"></a>  
 # management
 ## google
 https://rework.withgoogle.com/jp/subjects/managers/
@@ -183,7 +187,8 @@ https://twitter.com/ryota_hnk/status/1213109687626780672
 https://note.com/ymiyazawa/n/ndbca544f23e1
 
 
-
+<a id="anchor8"></a>
+<a href="#anchor8"></a>  
 
 # キャリア
 ## 「セイチョウ・ジャーニー」「挫折論への招待」アドベントカレンダー Advent Calendar 2019
@@ -203,7 +208,8 @@ https://medium.com/@tumada/%E4%BB%95%E4%BA%8B%E3%81%A8%E5%B9%B8%E7%A6%8F%E5%BA%A
 
 
 
-
+<a id="anchor9"></a>
+<a href="#anchor9"></a>  
 # SRE
 ## training-site-reliability-engineers  ※未読
 https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/
@@ -227,14 +233,16 @@ https://speakerdeck.com/wantedly/recruitment-marketing-101?slide=88
 …単一のDBで複数のサービス。。
 に対するOracleのアンチテーゼって何だっけ？
 
-
+<a id="anchor10"></a>
+<a href="#anchor10"></a>  
 # edge computing
 ## さくらのedge computingについて
 https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/
 
 
 
-
+<a id="anchor11"></a>
+<a href="#anchor11"></a>  
 # その他
 ## プロに学ぶ、一生役立つ配色の基本ルール8個まとめ【保存版】
 http://photoshopvip.net/102903
