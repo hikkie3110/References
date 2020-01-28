@@ -11,7 +11,8 @@
 * [キャリア](#anchor8)
 * [SRE](#anchor9)
 * [edge computing](#anchor10)
-* [Others](#anchor11)
+* [採用](#anchor11)
+* [Others](#anchor12)
 
 
 <a id="anchor1"></a>
@@ -240,9 +241,14 @@ https://speakerdeck.com/wantedly/recruitment-marketing-101?slide=88
 https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/
 
 
-
 <a id="anchor11"></a>
 <a href="#anchor11"></a>  
+# 採用
+
+
+
+<a id="anchor12"></a>
+<a href="#anchor12"></a>  
 # その他
 ## プロに学ぶ、一生役立つ配色の基本ルール8個まとめ【保存版】
 http://photoshopvip.net/102903
