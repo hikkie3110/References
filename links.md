@@ -1,9 +1,9 @@
 # Category
 ## 目次
 * [category](#category)
-* [k8s](#anchor1)
-* [container](#anchor2)
-* [その他インフラ全般](#anchor3)
+* [k8s](#k8s)
+* [container](#container)
+* [その他インフラ全般](#その他インフラ全般)
 * [Application Programming](#anchor4)
 * [PO、ビジネス](#anchor5)
 * [組織論、プロセス](#anchor6)
