@@ -57,96 +57,34 @@
 )
 * [組織はツリーではない。](https://kawaguti.hateblo.jp/entry/2019/12/06/070000)
 * [1300はてブ超！「心理的安全性を0から80ぐらいに上げた話」の久津佑介氏が心理的安全性の “失敗談と教訓” を語る](https://backlog.com/ja/blog/campfire-talks-about-the-story-of-raising-psychological-safety-from-0-to-80/)
-* []()
-* []()
-* []()
+* [エンジニアチームビルディングジャーニー](https://www.slideshare.net/yusukehisatsu/ss-130125728)
+* [ソフトウェア・ファーストの特集記事](https://diamond.jp/articles/-/224049)
+* [Whyとは何か？を言語化してみる](https://note.com/naofumit/n/n1aaab6683818)
 
-* []()
-* []()
-* []()
-
-* []()
-* []()
-* []()
-
-* []()
-* []()
-* []()
-
-
-
-
-## エンジニアチームビルディングジャーニー
-https://www.slideshare.net/yusukehisatsu/ss-130125728
-
-## ソフトウェアファースト
-https://diamond.jp/articles/-/224049?page=5
-
-## Whyとは何か？を言語化してみる
-https://note.com/naofumit/n/n1aaab6683818
 
 
 # management
-## google
-https://rework.withgoogle.com/jp/subjects/managers/
-
-## 44 engineering management
-https://kakakakakku.hatenablog.com/entry/2017/09/04/073248
-
-## Cloud native ぽいチーム作りを目指す
-https://speakerdeck.com/makocchi/cndjp-13-cloud-native-team?
-
-## Cloud Nativeやる前とやりながら考えておきたいこと
-https://speakerdeck.com/fufuhu/cloud-nativeyaruqian-toyarinagarakao-eteokitaikoto?
-
-## DevOps導入指南～基本編～
-https://speakerdeck.com/rtechkouhou/devopsdao-ru-zhi-nan-ji-ben-bian
-
-## 強い人材を集めるための採用プロセス / Hiring process at M3
-https://speakerdeck.com/mtomonaga/hiring-process-at-m3?slide=17
-
-
-## エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド
-https://qiita.com/hirokidaichi/items/95678bb1cef32629c317
-
-## 経営に役立つナレッジマネジメントの活用
-https://www.juas.or.jp/cms/media/2017/01/01knowledgemngmt.pdf
-https://twitter.com/ryota_hnk/status/1213109687626780672
-
-## 経営に関わるマネジメント全般
-https://note.com/ymiyazawa/n/ndbca544f23e1
-
-
-
-## ブランディングとは経営のデザイン
-https://twitter.com/tsuyoshi_osiire/status/1198102408255008768
+* [googleのmanager論](https://rework.withgoogle.com/jp/subjects/managers/)
+* [44 engineering management](https://kakakakakku.hatenablog.com/entry/2017/09/04/073248)
+* [Cloud native ぽいチーム作りを目指す](https://speakerdeck.com/makocchi/cndjp-13-cloud-native-team?)
+* [Cloud Nativeやる前とやりながら考えておきたいこと](https://speakerdeck.com/fufuhu/cloud-nativeyaruqian-toyarinagarakao-eteokitaikoto?)
+* [DevOps導入指南～基本編～](https://speakerdeck.com/rtechkouhou/devopsdao-ru-zhi-nan-ji-ben-bian)
+* [エンジニアリングマネージャ/プロダクトマネージャのための知識体系と読書ガイド](https://qiita.com/hirokidaichi/items/95678bb1cef32629c317)
+* [経営に役立つナレッジマネジメントの活用](https://www.juas.or.jp/cms/media/2017/01/01knowledgemngmt.pdf)
+* [経営に役立つナレッジマネジメントの活用(tweet元）](https://twitter.com/ryota_hnk/status/1213109687626780672)
+* [経営に関わるマネジメント全般](https://note.com/ymiyazawa/n/ndbca544f23e1)
+* [ブランディングとは経営のデザイン](https://twitter.com/tsuyoshi_osiire/status/1198102408255008768)
 
 # キャリア
-## 「セイチョウ・ジャーニー」「挫折論への招待」アドベントカレンダー Advent Calendar 2019
-https://adventar.org/calendars/4233
-
-## 『0秒で動け』リアルエピソード×3
-https://note.com/nicoful25/n/n3d57d6727d74
-
-## マインドフルネス・アドベントカレンダー2019
-https://note.com/nicoful25/n/n6709ec69f997
-
-## いい感じにはたらくTips Advent Calendar 2019
-https://adventar.org/calendars/4458
-
-## 仕事と幸福度の研究
-https://medium.com/@tumada/%E4%BB%95%E4%BA%8B%E3%81%A8%E5%B9%B8%E7%A6%8F%E5%BA%A6%E3%81%AE%E7%A0%94%E7%A9%B6-6a3d855f187f
-
-
+* [「セイチョウ・ジャーニー」「挫折論への招待」アドベントカレンダー Advent Calendar 2019](https://adventar.org/calendars/4233)
+* [『0秒で動け』リアルエピソード×3](https://note.com/nicoful25/n/n3d57d6727d74)
+* [マインドフルネス・アドベントカレンダー2019](https://note.com/nicoful25/n/n6709ec69f997)
+* [いい感じにはたらくTips Advent Calendar 2019](https://adventar.org/calendars/4458)
+* [仕事と幸福度の研究](https://medium.com/@tumada/%E4%BB%95%E4%BA%8B%E3%81%A8%E5%B9%B8%E7%A6%8F%E5%BA%A6%E3%81%AE%E7%A0%94%E7%A9%B6-6a3d855f187f)
 
 # SRE
-## training-site-reliability-engineers  ※未読
-https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/
+* [training-site-reliability-engineers](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/) ##未読
 
-## リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101
-https://speakerdeck.com/wantedly/recruitment-marketing-101?slide=88
-
-## 
 
 
 …..
@@ -155,53 +93,32 @@ https://speakerdeck.com/wantedly/recruitment-marketing-101?slide=88
 
 といった具合に、何となくの安心感で満足していないか？
 
-
-
-
-
 …単一のDBで複数のサービス。。
 に対するOracleのアンチテーゼって何だっけ？
 
 
 # edge computing
-## さくらのedge computingについて
-https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/
+* [さくらのedge computingについて](https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/)
 
 
 # 採用
-## トレンドに踊らされず、人事本来の「コア」に向き合い磨いていく
-https://note.com/hideakiishikura/n/n6dbd86b655e3
-	
-
-## 【エンジニア採用担当者向け】エンジニア採用を成功させる7つのステップ 〜100社以上の採用課題をまとめました〜
-https://blog.findy.us/findy-engineer-7step/
+* [トレンドに踊らされず、人事本来の「コア」に向き合い磨いていく](https://note.com/hideakiishikura/n/n6dbd86b655e3)
+* [【エンジニア採用担当者向け】エンジニア採用を成功させる7つのステップ 〜100社以上の採用課題をまとめました〜](https://blog.findy.us/findy-engineer-7step/)
+* [強い人材を集めるための採用プロセス / Hiring process at M3](https://speakerdeck.com/mtomonaga/hiring-process-at-m3)
+* [リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101](https://speakerdeck.com/wantedly/recruitment-marketing-101)
+* [人事アドベントカレンダー](https://adventar.org/calendars/4385)
+* [採用用スライド7選！](https://note.com/jony_fujimura/n/nf69e8ac3915f#n4oBO)
 
 
 # Others
-## プロに学ぶ、一生役立つ配色の基本ルール8個まとめ【保存版】
-http://photoshopvip.net/102903
+* [プロに学ぶ、一生役立つ配色の基本ルール8個まとめ【保存版】](http://photoshopvip.net/102903)
+* [ソースコードの理解ツール　source trail](https://github.com/CoatiSoftware/Sourcetrail)
+* [東京大学の講義](https://ocw.u-tokyo.ac.jp/lecture-search/?fq%5Bsubject_codes%5D%5B0%5D=540)
+* [アイコンのサイト](https://bizroute.net/network_icon.html)
+* [青山さんのポートフォリオ](https://amsy.dev/ )
 
-## 人事アドベントカレンダー
-https://adventar.org/calendars/4385
-
-
-## ソースコードの理解ツール　source trail
-https://github.com/CoatiSoftware/Sourcetrail
-
-
-## 東京大学の講義
-https://ocw.u-tokyo.ac.jp/lecture-search/?fq%5Bsubject_codes%5D%5B0%5D=540
-
-
-## 採用用スライド7選！
-https://note.com/jony_fujimura/n/nf69e8ac3915f#n4oBO
-
-## アイコンのサイト
-https://bizroute.net/network_icon.html
-
-## 青山さんのポートフォリオ
-https://amsy.dev/ 
-
-
-
+* []()
+* []()
+* []()
+* []()
 
