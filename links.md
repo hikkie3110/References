@@ -13,7 +13,7 @@
 * [Others](#Others)
 
 
-# #cloud-native
+# Cloud Native
 * [コンテナ入門とその先](https://speakerdeck.com/nwiizo/introduction-to-containers-and-beyond)
 * [Kubernetes の国の愉快な小人の世界](https://www.youtube.com/watch?v=yrCaCBUceL4&feature=youtu.be)
 * [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
@@ -90,6 +90,7 @@
 
 # SRE
 * [training-site-reliability-engineers](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/) ##未読
+* [【SRE Next 2020】発表資料まとめ](https://qiita.com/Hassan/items/6f7fb1c206f77716ee2a)
 * [SREの組織的実践](https://speakerdeck.com/yuukit/organized-sre)
 * [Webサービスを1日10回デプロイするための取り組み / SRE NEXT 2020](https://speakerdeck.com/fujiwara3/sre-next-2020)
 
