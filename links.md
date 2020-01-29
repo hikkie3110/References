@@ -27,7 +27,9 @@
 * [優れた SLO を策定するには : CRE が現場で学んだこと](https://cloud.google.com/blog/ja/products/gcp/building-good-slos-cre-life-lessons)
 * [Cloud Nativeやる前とやりながら考えておきたいこと](https://speakerdeck.com/fufuhu/cloud-nativeyaruqian-toyarinagarakao-eteokitaikoto?)
 * [DevOps導入指南～基本編～](https://speakerdeck.com/rtechkouhou/devopsdao-ru-zhi-nan-ji-ben-bian)
-
+* [国防総省がKubernetesとIstioでDevSecOps基盤を構築、「ウォーターフォール文化を変える」](https://www.atmarkit.co.jp/ait/articles/1912/05/news026_2.html#_ga=2.115134983.1876968006.1576039080-605295879.1570498302)
+* [Why our team cancelled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
+* ["Cloud Native Data Center Networking" by Dinesh Dutt | Cumulus NetworksDownload](https://cumulusnetworks.com/lp/cloud-native-data-center-networking/?utm_campaign=Q1_2020_OReilly_Dinesh-Dutt_Cloud-Native-ebook)
 
 # その他インフラ全般
 * [API Gatewayについて](https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/)
@@ -37,6 +39,7 @@
 * [ブロックチェーンを使う前に自問自答したいフローチャート](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)
 * [プラットフォームの上でものを作るということ](https://toris.io/2019/12/what-i-think-about-when-i-think-about-kubernetes-and-ecs/)
 * [RHEL8を手軽に試す。](https://sites.google.com/view/explore-rhel8)
+* [MySQLとPostgresの違い](https://speakerdeck.com/soudai/mysql-and-postgresql)
 
 
 
@@ -49,6 +52,7 @@
 * [メルペイの裏側](https://tech.mercari.com/entry/2019/12/21/104948)
 * [「意味のイノベーション」](https://note.com/waternavy/n/n8a0345f7f3e7)
 * [「スクラムマスターを雇うときに聞いてみるとよい38個の質問」に答える](https://qiita.com/viva_tweet_x/items/55258f657eb0b11eaf47)
+* [アジャイル開発・チームビルディングに役立つワークショップのまとめ](https://github.com/tunepolo/awesome-agile-workshop/blob/master/README.md)
 
 
 
@@ -63,7 +67,8 @@
 * [エンジニアチームビルディングジャーニー](https://www.slideshare.net/yusukehisatsu/ss-130125728)
 * [ソフトウェア・ファーストの特集記事](https://diamond.jp/articles/-/224049)
 * [Whyとは何か？を言語化してみる](https://note.com/naofumit/n/n1aaab6683818)
-
+* [【資料公開】マネジメント向けアジャイル開発概要](https://www.ryuzee.com/contents/blog/13147)
+* [マネージャーを否定しない組織をつくる - Unknown Error](https://yunon-phys.hatenadiary.com/entry/2020/01/13/004055)
 
 
 # management
@@ -85,6 +90,9 @@
 
 # SRE
 * [training-site-reliability-engineers](https://landing.google.com/sre/resources/practicesandprocesses/training-site-reliability-engineers/) ##未読
+* [SREの組織的実践](https://speakerdeck.com/yuukit/organized-sre)
+* [Webサービスを1日10回デプロイするための取り組み / SRE NEXT 2020](https://speakerdeck.com/fujiwara3/sre-next-2020)
+
 
 # edge computing
 * [さくらのedge computingについて](https://research.sakura.ad.jp/2019/12/03/edge-computing-plan/)
@@ -104,5 +112,5 @@
 * [東京大学の講義](https://ocw.u-tokyo.ac.jp/lecture-search/?fq%5Bsubject_codes%5D%5B0%5D=540)
 * [アイコンのサイト](https://bizroute.net/network_icon.html)
 * [青山さんのポートフォリオ](https://amsy.dev/)
-
+* [“5万1544枚のパワポ資料をAI分析して導き出した『相手を動かしやすくなる作成ルール』](https://twitter.com/shinjiko9/status/1221027310519767040)
 
