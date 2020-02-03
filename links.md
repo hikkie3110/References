@@ -30,6 +30,9 @@
 * [国防総省がKubernetesとIstioでDevSecOps基盤を構築、「ウォーターフォール文化を変える」](https://www.atmarkit.co.jp/ait/articles/1912/05/news026_2.html#_ga=2.115134983.1876968006.1576039080-605295879.1570498302)
 * [Why our team cancelled our move to microservices](https://medium.com/@steven.lemon182/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
 * ["Cloud Native Data Center Networking" by Dinesh Dutt | Cumulus NetworksDownload](https://cumulusnetworks.com/lp/cloud-native-data-center-networking/?utm_campaign=Q1_2020_OReilly_Dinesh-Dutt_Cloud-Native-ebook)
+* [Kubernetesの基礎.pdf](https://speakerdeck.com/yosshi_/kubernetesfalseji-chu)
+* [everything will be serverless](https://speakerdeck.com/keisuke69/everything-will-be-serverless)
+
 
 # その他インフラ全般
 * [API Gatewayについて](https://dev.classmethod.jp/cloud/aws/this-time-get-along-with-rest-api-gateway/)
