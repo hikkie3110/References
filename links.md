@@ -117,4 +117,5 @@
 * [アイコンのサイト](https://bizroute.net/network_icon.html)
 * [青山さんのポートフォリオ](https://amsy.dev/)
 * [“5万1544枚のパワポ資料をAI分析して導き出した『相手を動かしやすくなる作成ルール』](https://twitter.com/shinjiko9/status/1221027310519767040)
+* [Gates Notes](https://www.gatesnotes.com/)
 
