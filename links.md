@@ -10,6 +10,7 @@
 * [SRE](#SRE)
 * [edge computing](#edge-computing)
 * [採用](#採用)
+* [イベント](#イベント)
 * [Others](#Others)
 
 
@@ -108,6 +109,9 @@
 * [リクルートメント・マーケティング入門：あたらしい採用の常識 / Recruitment Marketing 101](https://speakerdeck.com/wantedly/recruitment-marketing-101)
 * [人事アドベントカレンダー](https://adventar.org/calendars/4385)
 * [採用用スライド7選！](https://note.com/jony_fujimura/n/nf69e8ac3915f#n4oBO)
+
+# イベント
+- 
 
 
 # Others
