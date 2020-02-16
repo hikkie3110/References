@@ -3,7 +3,7 @@
 * [Cloud Native(k8s,microservice)](#cloud-native)
 * [その他インフラ全般](#その他インフラ全般)
 * [Application Programming](#Application-Programming)
-* [PO、ビジネス](#PO、ビジネス)
+* [PO、ビジネス](#PO/Businness)
 * [組織論、プロセス](#組織論、プロセス)
 * [management](#management)
 * [キャリア](#キャリア)
